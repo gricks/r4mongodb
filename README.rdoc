@@ -2,7 +2,7 @@
 
 Clean/Working installation that can be used as an example of implementing Mongoid with Rails 4.
 
-Please see the gist: https://gist.github.com/gricks/6876983
+Please see the gist: https://gist.github.com/gricks/6876983.
 
 www.grandvillericks.com
 
